@@ -1,0 +1,11 @@
+.game-over {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-score-card-sm-bg.png');
+  background-size: cover;
+}
+
+@media screen(min-width:768) {
+  .game-over {
+    background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-score-card-lg-bg.png');
+    background-size: cover;
+  }
+}

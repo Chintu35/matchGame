@@ -1,0 +1,18 @@
+.tab-Item {
+  font-weight: bold;
+  font-size: 20px;
+  color: white;
+  background-color: transparent;
+  border: none;
+}
+.tab-Item-active {
+  color: #fec653;
+  background-color: transparent;
+  border-color: #fec653;
+  font-size: 20px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  font-weight: bold;
+  height: 55px;
+}
